@@ -1,5 +1,5 @@
 import React from 'react';
-import { Check, Star, Lock, ShieldCheck } from 'lucide-react';
+import { Check, Star } from 'lucide-react';
 
 interface FeatureBlockProps {
   title: string;
